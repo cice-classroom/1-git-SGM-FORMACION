@@ -1,4 +1,5 @@
 function lorem(ipsum, dolor = 1) {
+<<<<<<< HEAD
   const sit = ipsum?.sit ?? 0;
   dolor = sit - amet(dolor);
   return sit ? consectetur(ipsum, 0, dolor < 0 ? 0 : dolor) : [];
